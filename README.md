@@ -1,2 +1,2 @@
 # coding_problems
-Coding Problems
+[Coding Problem #1](images/problem_1.jpg)
