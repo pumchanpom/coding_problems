@@ -2,7 +2,7 @@
 - [Coding Problem #1](images/problem_1.jpg)
 - Coding Problem #1 Solution: [C](problem_1.c), [Python](problem_1.py), [Python Notebook](problem_1.ipynb)
 - [Coding Problem #2](https://www.codecademy.com/code-challenges/code-challenge-fizzbuzz-javascript)
-- Coding Problem #2 Solution: [JavaScript](problem_2.js)
+- Coding Problem #2 Solution: [JavaScript](problem_2.js), [Python Notebook](problem_2.ipynb)
     ### FizzBuzz
 
     ```
