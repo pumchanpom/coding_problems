@@ -13,3 +13,6 @@
     For example, fizzbuzz(16) should return 
     [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz', 16]. 
     ```
+
+- [Coding Problem #3](https://leetcode.com/problems/happy-number/)
+- Coding Problem #3 Solution: [Python Notebook](problem_3.ipynb)
